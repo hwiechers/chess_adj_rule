@@ -1,2 +1,3 @@
-# chess_adj_rule
-Chess Adjudication Rule Analyzer
+#Chess Adjudication Rule Analyzer
+
+Tool for studying chess adjudication rules
